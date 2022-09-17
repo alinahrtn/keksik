@@ -1,2 +1,2 @@
 # keksik
-tut domashki
+tut domashki i raboti na seminare
